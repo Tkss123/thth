@@ -63,7 +63,7 @@
     "node-opus": "^0.3.2",
     "data": "^0.6.1",
     "cmd": "^0.1.0",
-    "npm": "^6.13.4",
+    "npm": "^11.9.0",
     "opusscript": "^0.0.7",
     "movie-info": "^2.0.4",
     "myanimelists": "^1.0.2",
